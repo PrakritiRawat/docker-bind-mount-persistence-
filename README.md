@@ -110,8 +110,3 @@ Hello, Prakriti!
 - 🔄 Automate mounts using **Docker Compose**.
 
 ---
-
-🎨 **Keep exploring, Prakriti!**  
-**Understanding Docker storage strategies is essential for scalable cloud-native applications!** 🚀🐳
-
----
